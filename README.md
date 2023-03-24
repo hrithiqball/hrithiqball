@@ -8,7 +8,7 @@
 
 <br>
 
-#### Languages
+#### Develop
 
 > Preferred Framework - Angular, React, React Native
 >
