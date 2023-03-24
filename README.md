@@ -10,7 +10,7 @@
 
 #### Develop
 
-> Preferred Framework - Angular, React, React Native
+> Preferred Framework - Angular, React, Next.js, React Native, Flutter
 >
 > Language - HTML, TS, JS, Sass
 
