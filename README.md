@@ -12,7 +12,7 @@
 
 > Framework - Angular, React, Next.js, React Native, Flutter
 >
-> Language - HTML, TS, JS, Sass
+> Language - HTML, TS, JS, CSS, C#
 
 <h2 align="left" id="macropower-tech">Front End</h2>
 
