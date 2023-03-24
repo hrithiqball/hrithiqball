@@ -9,6 +9,10 @@
 <br>
 
 
+> Preferred Framework - Angular, React, React Native
+>
+> Language - HTML, TS, JS, Sass
+
 <h2 align="left" id="macropower-tech">Front End</h2>
 
 > Preferred Framework - Angular, React, React Native
