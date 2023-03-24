@@ -1,26 +1,14 @@
-<h1 align="left" id="macropower-title">Konichiwa! I'm Harith</h1>
-<h3 align="left">I am a software engineer and a part time student in Computer Science</h3>
+### Konichiwa! I'm Harith, a junior software engineer and a part time student in Computer Science(CS230). Graduated from CS110
 
-- 🏢 &nbsp;I'm currently working at **Recogine Technology**
-- 🌱 &nbsp;I'm exploring **Docker and Jenkins**
-- 💬 &nbsp;I like to talk about **mobile apps and new technology**
-- 💻 &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/hrithiqball/)
-
-<br>
+* 🏢    Developing web, mobile apps and managing microservices at **Recogine Technology Sdn. Bhd**.
+* 🌱    Interested in DevOps and automation. Exploring **Docker, Azure and Jenkins**
+* 💻    Connect to me in [LinkedIn](https://www.linkedin.com/in/hrithiqball/)
 
 #### Develop
 
-> Framework - Angular, React, Next.js, React Native, Flutter
+> Framework - Angular, React, Next.js, .NET Core, React Native, Flutter
 >
 > Language - HTML, TS, JS, CSS, C#
-
-
-
-<h2 align="left" id="macropower-tech">Front End</h2>
-
-> Preferred Framework - Angular, React, React Native
->
-> Language - HTML, TS, JS, Sass
 
 <table>
     <tr>
@@ -34,20 +22,58 @@
                 />
             </a>
             <br />
-            Angular
+            HTML
         </td>
- 	<td align="center" width="96">
-            <br />
+        <td align="center" width="96">
             <a href="#macropower-tech">
                 <img
                     src="./img/react-original.svg"
                     width="48"
                     height="48"
-                    alt="React Native"
+                    alt="React"
                 />
             </a>
-            <br>React</br> Native
+            <br />
+            React
         </td>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
+                <img
+                    src="./img/javascript-original.svg"
+                    width="48"
+                    height="48"
+                    alt="Next.js"
+                />
+            </a>
+            <br />
+            Next.js
+        </td>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
+                <img
+                    src="./img/dotnet.svg"
+                    width="48"
+                    height="48"
+                    alt=".net"
+                />
+            </a>
+            <br />
+            .NET
+        </td>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
+                <img
+                    src="./img/sass-original.svg"
+                    width="48"
+                    height="48"
+                    alt="Flutter"
+                />
+            </a>
+            <br />
+            Flutter
+        </td>
+    </tr>
+    <tr>
         <td align="center" width="96">
             <a href="#macropower-tech">
                 <img
@@ -96,34 +122,44 @@
             <br />
             Sass
         </td>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
+                <img
+                    src="./img/csharp-original.svg"
+                    width="48"
+                    height="48"
+                    alt="C#"
+                />
+            </a>
+            <br />
+            C#
+        </td>
     </tr>
 </table>
 
-<h2 align="left" id="macropower-tech">Back End</h2>
+#### Deployment
 
-> Preferred Framework - .NET Core
->
-> Language - C#
+> Tools - Docker, Jenkins, PostgresQL, AWS, Firebase, Git
 
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/dotnet.svg" width="48" height="48" alt="DotNET" />
+        <img src="./img/docker-original.svg" width="48" height="48" alt="DotNET" />
       </a>
-      <br>.NET Core
+      <br>Docker
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="./img/csharp-original.svg" width="48" height="48" alt="CSharp" />
       </a>
-      <br>CSharp
+      <br>Jenkins
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="./img/postgres.svg" width="48" height="48" alt="Docker" />
       </a>
-      <br>Docker
+      <br>PostgresQL
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -139,16 +175,16 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/postgres.svg" width="48" height="48" alt="PostGreSQL" />
+        <img src="./img/firebase.svg" width="48" height="48" alt="Firebase" />
       </a>
-      <br>PostGreSQL
+      <br>Git
     </td>
   </tr>
 </table>
 
-<h2 align="left" id="macropower-tech">Tools Used</h2>
+#### Environment
 
-> Preferred Environment
+> Visual Studio Code, Visual Studio, Android Studio, DBeaver, Postman, Github, Gitlab, Linux(Ubuntu, Gnome)
 
 <table>
     <tr>
@@ -212,7 +248,7 @@
                     src="./img/postman.svg"
                     width="48"
                     height="48"
-                    alt="Insomnia"
+                    alt="Postman"
                 />
             </a>
             <br />
