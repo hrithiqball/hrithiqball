@@ -1,8 +1,8 @@
 ### Konichiwa! I'm Harith, a junior software engineer and a part time student in Computer Science(CS230). Graduated from CS110
 
-* 🏢    Developing web, mobile apps and managing microservices at **Recogine Technology Sdn. Bhd**.
-* 🌱    Interested in DevOps and automation. Exploring **Docker, Azure and Jenkins**
-* 💻    Connect to me in [LinkedIn](https://www.linkedin.com/in/hrithiqball/)
+-   🏢 Developing web, mobile apps and managing microservices at **Recogine Technology Sdn. Bhd**.
+-   🌱 Interested in DevOps and automation. Exploring **Docker, Azure and Jenkins**
+-   💻 Connect to me in [LinkedIn](https://www.linkedin.com/in/hrithiqball/)
 
 #### Develop
 
@@ -39,7 +39,7 @@
         <td align="center" width="96">
             <a href="#macropower-tech">
                 <img
-                    src="./img/javascript-original.svg"
+                    src="./img/next.svg"
                     width="48"
                     height="48"
                     alt="Next.js"
@@ -58,12 +58,12 @@
                 />
             </a>
             <br />
-            .NET
+            .NET Core
         </td>
         <td align="center" width="96">
             <a href="#macropower-tech">
                 <img
-                    src="./img/sass-original.svg"
+                    src="./img/flutter.svg"
                     width="48"
                     height="48"
                     alt="Flutter"
@@ -78,13 +78,25 @@
             <a href="#macropower-tech">
                 <img
                     src="./img/html5.svg"
-                    width="48"
-                    height="48"
+                    width="46"
+                    height="46"
                     alt="HTML"
                 />
             </a>
             <br />
             HTML
+        </td>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
+                <img
+                    src="./img/css.svg"
+                    width="48"
+                    height="48"
+                    alt="CSS"
+                />
+            </a>
+            <br />
+            CSS
         </td>
         <td align="center" width="96">
             <a href="#macropower-tech">
@@ -113,18 +125,6 @@
         <td align="center" width="96">
             <a href="#macropower-tech">
                 <img
-                    src="./img/sass-original.svg"
-                    width="48"
-                    height="48"
-                    alt="Sass"
-                />
-            </a>
-            <br />
-            Sass
-        </td>
-        <td align="center" width="96">
-            <a href="#macropower-tech">
-                <img
                     src="./img/csharp-original.svg"
                     width="48"
                     height="48"
@@ -139,25 +139,31 @@
 
 #### Deployment
 
-> Tools - Docker, Jenkins, PostgresQL, AWS, Firebase, Git
+> Tools - Docker, Jenkins, Appium PostgresQL, AWS, Firebase, Git
 
 <table>
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/docker-original.svg" width="48" height="48" alt="DotNET" />
+        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="CSharp" />
+        <img src="./img/jenkins.svg" width="48" height="48" alt="Jenkins" />
       </a>
       <br>Jenkins
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/postgres.svg" width="48" height="48" alt="Docker" />
+        <img src="./img/appium.svg" width="48" height="48" alt="Appium" />
+      </a>
+      <br>Appium
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/postgres.svg" width="48" height="48" alt="PostgresQL" />
       </a>
       <br>PostgresQL
     </td>
@@ -175,16 +181,17 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/firebase.svg" width="48" height="48" alt="Firebase" />
+        <img src="./img/git.svg" width="48" height="48" alt="git" />
       </a>
       <br>Git
     </td>
+    
   </tr>
 </table>
 
 #### Environment
 
-> Visual Studio Code, Visual Studio, Android Studio, DBeaver, Postman, Github, Gitlab, Linux(Ubuntu, Gnome)
+> Visual Studio Code, Visual Studio, Android Studio, DBeaver, Jira, Postman, Gitlab
 
 <table>
     <tr>
@@ -197,11 +204,9 @@
                     alt="Visual Studio Code"
                 />
             </a>
-            <br />
-            VS Code
+            VSCode
         </td>
         <td align="center" width="96">
-            <br />
             <a href="#macropower-tech">
                 <img
                     src="./img/vstudio.svg"
@@ -211,12 +216,9 @@
                 />
             </a>
             <br />
-            Visual
-            <br />
-            Studio
+            VStudio
         </td>
         <td align="center" width="96">
-            <br />
             <a href="#macropower-tech">
                 <img
                     src="./img/android.svg"
@@ -225,10 +227,7 @@
                     alt="Android Studio"
                 />
             </a>
-            <br />
             Android
-            <br />
-            Studio
         </td>
         <td align="center" width="96">
             <a href="#macropower-tech">
@@ -245,6 +244,18 @@
         <td align="center" width="96">
             <a href="#macropower-tech">
                 <img
+                    src="./img/jira.svg"
+                    width="48"
+                    height="48"
+                    alt="DBeaver"
+                />
+            </a>
+            <br />
+            Jira
+        </td>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
+                <img
                     src="./img/postman.svg"
                     width="48"
                     height="48"
@@ -253,6 +264,18 @@
             </a>
             <br />
             Postman
+        </td>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
+                <img
+                    src="./img/gitlab.svg"
+                    width="48"
+                    height="48"
+                    alt="Gitlab"
+                />
+            </a>
+            <br />
+            Gitlab
         </td>
     </tr>
 </table>
