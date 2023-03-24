@@ -1,10 +1,10 @@
 <h1 align="left" id="macropower-title">Konichiwa! I'm Harith</h1>
 <h3 align="left">I am a software engineer and a part time student in Computer Science</h3>
 
--   🏢 &nbsp;I'm currently working at **Recogine Technology**
--   🌱 &nbsp;I'm exploring **Flutter and React**
--   💬 &nbsp;I like to talk about **mobile apps and new technology**
--   💻 &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/hrithiqball/)
+- 🏢 &nbsp;I'm currently working at **Recogine Technology**
+- 🌱 &nbsp;I'm exploring **Docker and React**
+- 💬 &nbsp;I like to talk about **mobile apps and new technology**
+- 💻 &nbsp;Connect with me on [LinkedIn](https://www.linkedin.com/in/hrithiqball/)
 
 <br>
 
