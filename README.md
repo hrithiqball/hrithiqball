@@ -4,6 +4,8 @@
 -   🌱 Interested in DevOps and automation. Exploring **Docker, Google Cloud and Jenkins**
 -   💻 Connect to me in [LinkedIn](https://www.linkedin.com/in/hrithiqball/)
 
+<img src="./img/stack.png" alt="Stack" />
+
 #### Develop
 
 > Framework - Angular, React, Next.js, .NET Core, React Native, Flutter
@@ -127,13 +129,21 @@
         <img src="./img/google.svg" height="48" alt="Google CLoud" />
       <br>Google Cloud
     </td>
+    <td align="center" width="94">
+        <img src="./img/azure.svg" height="48" alt="Azure" />
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+        <img src="./img/kubernetes.svg" height="48" width="48" alt="Kubernetes" />
+      <br>Kubernetes
+    </td>
     <td align="center" width="96">
         <img src="./img/docker.svg" height="48" width="48" alt="Docker" />
       <br>Docker
     </td>
-    <td align="center" width="96">
-        <img src="./img/jenkins.svg" width="48" height="48" alt="Jenkins" />
-      <br>Jenkins
+    <td align="center" width="125">
+        <img src="./img/actions.png" width="48" height="48" alt="Github Actions" />
+      <br>Github Actions
     </td>
     <!-- <td align="center" width="96">
         <img src="./img/appium.svg" width="48" height="48" alt="Appium" />
