@@ -4,7 +4,8 @@
 -   🌱 Interested in DevOps and automation. Exploring **Docker, Google Cloud and Jenkins**
 -   💻 Connect to me in [LinkedIn](https://www.linkedin.com/in/hrithiqball/)
 
-<img src="./img/stack.png" alt="Stack" />
+<img src="./img/stack.png" alt="Stack"  width="448"
+                    height="448"/>
 
 #### Develop
 
