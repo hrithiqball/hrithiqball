@@ -6,7 +6,7 @@
 
 ### About Me
 
-I am able to develop website apps, cross platform mobile apps, services. I try to write the cleanest and best practice code and documentation for my team and myself. I am able to work in a team and also independently. I am able to learn new technologies and adapt to new environments quickly. I really love the idea of automation from writing clean code, going to semantic release, automatic testing, and deployment by containerising the app and host it in cloud. I also believe that migrating to newer technology is definitely worth the resources and time.
+I am able to develop website apps, cross platform mobile apps, services. I try to write the cleanest and best practice code including git conventional and documentation for my team and myself. I am able to work in a team and also independently. I am able to learn new technologies and adapt to new environments quickly. I really love the idea of automation from writing clean code, going to semantic release, automatic testing, and deployment by containerising the app and host it in cloud. I also believe that migrating to newer technology is definitely worth the resources and time.
 
 In terms of framework or language, just toss me anything and i will be able to grasp it in 2 weeks top. I am a highly motivated person and i love to learn new things. In short terms, i am a fast learner lol.
 
