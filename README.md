@@ -1,173 +1,55 @@
 ## Hey! I'm Harith, a junior software engineer and a part time student in Computer Science(CS230). Graduated from CS110
 
--   🏢 Developing web, mobile apps and managing microservices at **Recogine Technology Sdn. Bhd**.
--   🌱 Interested in DevOps and automation. Exploring **Docker, Google Cloud and Jenkins**
--   💻 Connect to me in [LinkedIn](https://www.linkedin.com/in/hrithiqball/)
+- 🏢 Developing web, mobile apps and managing microservices at **Recogine Technology Sdn. Bhd** focusing on highway and railway applications.
+- 🌱 Interested in DevOps and automation. Exploring **Docker, Google Cloud and Github Actions**. Soon to explore: **Kubernetes, NOSQL database**
+- 💻 Connect to me in [LinkedIn](https://www.linkedin.com/in/hrithiqball/)
 
-<img src="./img/stack.png" alt="Stack"  width="448"
-                    height="448"/>
+### About Me
+
+I am able to develop website apps, cross platform mobile apps, services. I try to write the cleanest and best practice code and documentation for my team and myself. I am able to work in a team and also independently. I am able to learn new technologies and adapt to new environments quickly. I really love the idea of automation from writing clean code, going to semantic release, automatic testing, and deployment by containerising the app and host it in cloud. I also believe that migrating to newer technology is definitely worth the resources and time.
+
+In terms of framework or language, just toss me anything and i will be able to grasp it in 2 weeks top. I am a highly motivated person and i love to learn new things. In short terms, i am a fast learner lol.
+
+#### Technology Stack
+
+> Linux, WSL2, IIS, Windows Service, Docker, Git, Supabase, MQTT, ORM, Restful Api, xApi, SNMP, JWT, Nginx, SignalR, Websocket
+
+#### Front End
+
+> RxJs, Redux, Supabase, Prisma, MSSQL, Postgresql, MySql
 
 #### Develop
 
 > Framework - Angular, React, Next.js, .NET Core, React Native, Flutter
->
-> Language - HTML, TS, JS, CSS, C#
 
 <table>
     <tr>
         <td align="center" width="96">
-                <img
-                    src="./img/angular.svg"
-                    width="48"
-                    height="48"
-                    alt="Angular"
-                />
-            <br />
-            Angular
+            <img src="./img/angular.svg" width="48" height="48" alt="Angular"/>
+            <br />Angular
         </td>
         <td align="center" width="115">
-                <img
-                    src="./img/react-original.svg"
-                    width="48"
-                    height="48"
-                    alt="React"
-                />
-            <br />
-            React (Native)
+            <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+            <br />React (Native)
         </td>
         <td align="center" width="96">
-                <img
-                    src="./img/next.svg"
-                    width="48"
-                    height="48"
-                    alt="Next.js"
-                />
-            <br />
-            Next.js
+            <img src="./img/next.svg" width="48" height="48" alt="Next.js"/>
+            <br />Next.js
         </td>
         <td align="center" width="96">
-                <img
-                    src="./img/dotnet.svg"
-                    width="48"
-                    height="48"
-                    alt=".net"
-                />
-            <br />
-            .NET Core
+            <img src="./img/dotnet.svg" width="48" height="48" alt=".net"/>
+            <br />.NET Core
         </td>
-        <td align="center" width="96">
-                <img
-                    src="./img/flutter.svg"
-                    width="48"
-                    height="48"
-                    alt="Flutter"
-                />
-            <br />
-            Flutter
-        </td>
+        <!-- <td align="center" width="96">
+            <img src="./img/flutter.svg" width="48" height="48" alt="Flutter"/>
+            <br />Flutter
+        </td> -->
     </tr>
-    <tr>
-        <td align="center" width="96">
-                <img
-                    src="./img/html5.svg"
-                    width="46"
-                    height="46"
-                    alt="HTML"
-                />
-            <br />
-            HTML
-        </td>
-        <td align="center" width="96">
-                <img
-                    src="./img/css.svg"
-                    width="48"
-                    height="48"
-                    alt="CSS"
-                />
-            <br />
-            CSS
-        </td>
-        <td align="center" width="96">
-                <img
-                    src="./img/typescript-original.svg"
-                    width="48"
-                    height="48"
-                    alt="TypeScript"
-                />
-            <br />
-            TypeScript
-        </td>
-        <td align="center" width="96">
-                <img
-                    src="./img/javascript-original.svg"
-                    width="48"
-                    height="48"
-                    alt="JavaScript"
-                />
-            <br />
-            JavaScript
-        </td>
-        <td align="center" width="96">
-                <img
-                    src="./img/csharp-original.svg"
-                    width="48"
-                    height="48"
-                    alt="C#"
-                />
-            <br />
-            C#
-        </td>
-    </tr>
-</table>
-
-#### Deployment
-
-> Tools - Google Cloud, Docker, Jenkins, Appium PostgresQL, Firebase, Git
-
-<table>
-  <tr>
-    <td align="center" width="115">
-        <img src="./img/google.svg" height="48" alt="Google CLoud" />
-      <br>Google Cloud
-    </td>
-    <td align="center" width="94">
-        <img src="./img/azure.svg" height="48" alt="Azure" />
-      <br>Azure
-    </td>
-    <td align="center" width="96">
-        <img src="./img/kubernetes.svg" height="48" width="48" alt="Kubernetes" />
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-        <img src="./img/docker.svg" height="48" width="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="125">
-        <img src="./img/actions.png" width="48" height="48" alt="Github Actions" />
-      <br>Github Actions
-    </td>
-    <!-- <td align="center" width="96">
-        <img src="./img/appium.svg" width="48" height="48" alt="Appium" />
-      <br>Appium
-    </td> -->
-    <td align="center" width="96">
-        <img src="./img/postgres.svg" width="48" height="48" alt="PostgresQL" />
-      <br>PostgresQL
-    </td>
-    <td align="center" width="96">
-        <img src="./img/firebase.svg" width="48" height="48" alt="Firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-        <img src="./img/git.svg" width="48" height="48" alt="git" />
-      <br>Git
-    </td>
-  </tr>
 </table>
 
 #### Environment
 
-> Visual Studio Code, Visual Studio, Android Studio, DBeaver, Jira, Postman, Gitlab
+> Visual Studio Code, Visual Studio, Android Studio, DBeaver, Jira, Postman, Gitlab and of course Github!
 
 <table>
     <tr>
