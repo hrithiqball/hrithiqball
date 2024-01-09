@@ -1,4 +1,4 @@
-## Hey! I'm Harith, a full time software engineer and a part time student in Computer Science(CS230). Graduated from CS110
+## Hey! I'm Harith, a full time software engineer
 
 - 🏢 Developing web, mobile apps and managing microservices at **Recogine Technology Sdn. Bhd** focusing on highway and railway applications.
 - 🌱 Interested in DevOps and automation. Exploring **Docker, Google Cloud and Github Actions**. Soon to explore: **Kubernetes, NOSQL database**
