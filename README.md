@@ -24,8 +24,6 @@ Adapting to new technology is a skill that I believe is necessary in software wo
 " />
 </div>
 
-#### Technology Stack
-
 #### Frontend
 
 <div style="display: flex">
