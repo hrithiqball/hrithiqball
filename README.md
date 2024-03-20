@@ -1,125 +1,73 @@
-## Hey! I'm Harith, a full time software engineer
+### Hey! I'm Harith, a developer
 
-- 🏢 Developing web, mobile apps and managing microservices at **Recogine Technology Sdn. Bhd** focusing on highway and railway applications.
-- 🌱 Interested in DevOps and automation. Exploring **Docker, Google Cloud and Github Actions**. Soon to explore: **Kubernetes, NOSQL database**
-- 💻 Connect to me in [LinkedIn](https://www.linkedin.com/in/hrithiqball/)
+- 🏢 Currently working as Software Engineer at [Recogine Technology Sdn. Bhd.](https://recogine.com/)
+- 🏫 A student in [UiTM](https://uitm.edu.my/index.php/en/) located at Shah Alam pursuing Bachelor of Computer Science
+- 🎨 Also casually takes freelance job when I'm not fully occupied. <a href="mailto:hrithiqball@gmail.com">Email me</a> for any inquiries!
 
 ### About Me
 
-I am able to develop website apps, cross platform mobile apps, services. I try to write the cleanest and best practice code including git conventional and documentation for my team and myself. I am able to work in a team and also independently. I am able to learn new technologies and adapt to new environments quickly. I really love the idea of automation from writing clean code, going to semantic release, automatic testing, and deployment by containerising the app and host it in cloud. I also believe that migrating to newer technology is definitely worth the resources and time.
+I am able to develop website apps, cross platform mobile apps, backend services and system integration. My coding practices prioritize cleanliness and adherence to best practices, accompanied by thorough documentation and adherence to Git conventions. I excel both in collaborative team environments and working independently.
 
-In terms of framework or language, just toss me anything and i will be able to grasp it in 2 weeks top. I am a highly motivated person and i love to learn new things. In short terms, i am a fast learner lol.
+Adapting to new technology is a skill that I believe is necessary in software world, hence I was experimenting and practice a lot. I really love the idea of automation from writing clean code, going to semantic release, automatic testing, and deployment by containerising the app and host it in cloud.
+
+#### Languages
+
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
+" />
 
 #### Technology Stack
 
-> Linux, WSL2, IIS, Windows Service, Docker, Git, Supabase, MQTT, ORM, Restful Api, xApi, SNMP, JWT, Nginx, SignalR, Websocket
+#### Frontend
 
-#### Front End
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-> RxJs, Redux, Supabase, Prisma, MSSQL, Postgresql, MySql
+#### Backend
 
-#### Develop
+<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ts--node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white" />
+<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
 
-> Framework - Angular, React, Next.js, .NET Core, React Native, Flutter
+#### Database
 
-<table>
-    <tr>
-        <td align="center" width="96">
-            <img src="./img/angular.svg" width="48" height="48" alt="Angular"/>
-            <br />Angular
-        </td>
-        <td align="center" width="115">
-            <img src="./img/react-original.svg" width="48" height="48" alt="React" />
-            <br />React (Native)
-        </td>
-        <td align="center" width="96">
-            <img src="./img/next.svg" width="48" height="48" alt="Next.js"/>
-            <br />Next.js
-        </td>
-        <td align="center" width="96">
-            <img src="./img/dotnet.svg" width="48" height="48" alt=".net"/>
-            <br />.NET Core
-        </td>
-        <!-- <td align="center" width="96">
-            <img src="./img/flutter.svg" width="48" height="48" alt="Flutter"/>
-            <br />Flutter
-        </td> -->
-    </tr>
-</table>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
 
-#### Environment
+#### Serverless & Cloud
 
-> Visual Studio Code, Visual Studio, Android Studio, DBeaver, Jira, Postman, Gitlab and of course Github!
+<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
-<table>
-    <tr>
-        <td align="center" width="96">
-                <img
-                    src="./img/vscode.svg"
-                    width="48"
-                    height="48"
-                    alt="Visual Studio Code"
-                />
-            VSCode
-        </td>
-        <td align="center" width="96">
-                <img
-                    src="./img/vstudio.svg"
-                    width="48"
-                    height="48"
-                    alt="Visual Studio"
-                />
-            <br />
-            VStudio
-        </td>
-        <td align="center" width="96">
-                <img
-                    src="./img/android.svg"
-                    width="48"
-                    height="48"
-                    alt="Android Studio"
-                />
-            Android
-        </td>
-        <td align="center" width="96">
-                <img
-                    src="./img/dbeaver2.svg"
-                    width="48"
-                    height="48"
-                    alt="DBeaver"
-                />
-            <br />
-            DBeaver
-        </td>
-        <td align="center" width="96">
-                <img
-                    src="./img/postman.svg"
-                    width="48"
-                    height="48"
-                    alt="Postman"
-                />
-            <br />
-            Postman
-        </td>
-        <td align="center" width="96">
-                <img
-                    src="./img/jira.svg"
-                    width="48"
-                    height="48"
-                    alt="DBeaver"
-                />
-            <br />
-            Jira
-        </td>
-        <td align="center" width="96">
-                <img
-                    src="./img/gitlab.svg"
-                    width="48"
-                    height="48"
-                    alt="Gitlab"
-                />
-            <br />
-            Gitlab
-        </td>
-    </tr>
-</table>
+#### Tools
+
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" />
+<img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
