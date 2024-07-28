@@ -81,3 +81,7 @@ Adapting to new technology is a skill that I believe is necessary in software wo
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" />
 <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
 </div>
+
+#### PC Specs
+
+<a title="System requirements and Rate my PC tool - all at PCGameBenchmark" href="https://www.pcgamebenchmark.com/ratemypc?cpu=amd-ryzen-7-5800x&memory=32gb&gpu=nvidia-geforce-rtx-3080&platform=windows"><img src="https://www.pcgamebenchmark.com/signature/amd-ryzen-7-5800x/32gb/nvidia-geforce-rtx-3080/forum.png"></a>
