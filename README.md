@@ -10,19 +10,12 @@ I am able to develop website apps, cross platform mobile apps, backend services 
 
 Adapting to new technology is a skill that I believe is necessary in software world, hence I was experimenting and practice a lot. I really love the idea of automation from writing clean code, going to semantic release, automatic testing, and deployment by containerising the app and host it in cloud.
 
-#### Languages
-
-<div style="display: flex">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=sharp&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white
-" />
-</div>
+<span>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hrithiqball&show_icons=true&rank_icon=percentile&show=prs_merged,prs_merged_percentage&hide=contribs" />
+</span>
+<span>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrithiqball&layout=compact&langs_count=8&card_width=320&hide=html,scss,plpgsql" />
+</span>
 
 #### Frontend
 
@@ -41,11 +34,10 @@ Adapting to new technology is a skill that I believe is necessary in software wo
 <div style="display: flex">
 <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white" />
+<img src="https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white" />
 <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=for-the-badge&logo=Apollo%20GraphQL&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
 </div>
 
 #### Database
@@ -56,7 +48,7 @@ Adapting to new technology is a skill that I believe is necessary in software wo
 <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+
 </div>
 
 #### Deployment
@@ -65,13 +57,14 @@ Adapting to new technology is a skill that I believe is necessary in software wo
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/IIS-CC2927?style=for-the-badge&logo=databricks&logoColor=white" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3cc88b" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" />
 </div>
 
 #### PC Specs
+
+<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+<img src="https://img.shields.io/badge/Zshell-121011?style=for-the-badge&logo=zsh&logoColor=white" />
 
 <a title="System requirements and Rate my PC tool - all at PCGameBenchmark" href="https://www.pcgamebenchmark.com/ratemypc?cpu=amd-ryzen-7-5800x&memory=32gb&gpu=nvidia-geforce-rtx-3080&platform=windows"><img src="https://www.pcgamebenchmark.com/signature/amd-ryzen-7-5800x/32gb/nvidia-geforce-rtx-3080/forum.png"></a>
