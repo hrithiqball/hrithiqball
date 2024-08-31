@@ -14,7 +14,7 @@ Adapting to new technology is a skill that I believe is necessary in software wo
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hrithiqball&show_icons=true&rank_icon=percentile&show=prs_merged,prs_merged_percentage&hide=contribs" />
 </span>
 <span>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrithiqball&layout=compact&langs_count=8&card_width=320&hide=html,scss,plpgsql" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrithiqball&layout=compact&langs_count=8&card_width=320&hide=html,scss,plpgsql,css" />
 </span>
 
 #### Frontend
