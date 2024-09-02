@@ -62,7 +62,9 @@ Adapting to new technology is a skill that I believe is necessary in software wo
 
 #### PC Specs
 
+<div style="display: flex">
 <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
 <img src="https://img.shields.io/badge/Zshell-121011?style=for-the-badge&logo=zsh&logoColor=white" />
+</div>
 
 <a title="System requirements and Rate my PC tool - all at PCGameBenchmark" href="https://www.pcgamebenchmark.com/ratemypc?cpu=amd-ryzen-7-5800x&memory=32gb&gpu=nvidia-geforce-rtx-3080&platform=windows"><img src="https://www.pcgamebenchmark.com/signature/amd-ryzen-7-5800x/32gb/nvidia-geforce-rtx-3080/forum.png"></a>
