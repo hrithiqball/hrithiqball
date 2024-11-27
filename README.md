@@ -8,7 +8,7 @@
 
 I am able to develop website apps, cross platform mobile apps, backend services and system integration. My coding practices prioritize cleanliness and adherence to best practices, accompanied by thorough documentation and adherence to Git conventions. I excel both in collaborative team environments and working independently.
 
-Adapting to new technology is a skill that I believe is necessary in software world, hence I was experimenting and practice a lot. I really love the idea of automation from writing clean code, going to semantic release, automatic testing, and deployment by containerising the app and host it in cloud.
+Adapting to new technology is a skill that I believe is necessary in software world, hence I was and am experimenting and practice a lot during my free time or not so free. I really love the idea of automation from writing clean code, going to semantic release, automatic testing, and deployment by containerising the app and host it in cloud.
 
 <span>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hrithiqball&show_icons=true&rank_icon=percentile&show=prs_merged,prs_merged_percentage&hide=contribs" />
