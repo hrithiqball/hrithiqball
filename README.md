@@ -11,10 +11,7 @@ I am able to develop website apps, cross platform mobile apps, backend services 
 Adapting to new technology is a skill that I believe is necessary in software world, hence I was and am experimenting and practice a lot during my free time or not so free. I really love the idea of automation from writing clean code, going to semantic release, automatic testing, and deployment by containerising the app and host it in cloud.
 
 <span>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hrithiqball&show_icons=true&rank_icon=percentile&show=prs_merged,prs_merged_percentage&hide=contribs" />
-</span>
-<span>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrithiqball&layout=compact&langs_count=8&card_width=320&hide=html,scss,plpgsql,css" />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&fontFamily=JetBrains%20Mono&preferLogin=false">    <img  alt="hrithiqball's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/hrithiqball?cardType=level&fontFamily=JetBrains%20Mono&preferLogin=false" />  </a>  
 </span>
 
 #### Frontend
